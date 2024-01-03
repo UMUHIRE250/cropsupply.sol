@@ -1,0 +1,1 @@
+the purpose of our contract captures key information about each crop, including its ID, name, and status (harvested, distributed, consumed). This information can be used for quality control purposes, helping to identify and address issues in the supply chain that may impact the quality of the crops.
